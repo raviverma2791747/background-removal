@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/background-removal/static/css/main.e7720ab7.css",
+    "main.js": "/background-removal/static/js/main.d3ebe067.js",
+    "static/media/undraw_image_upload_re_w7pm.svg": "/background-removal/static/media/undraw_image_upload_re_w7pm.1aca279e670ee6f42c2d0fb0dd62532a.svg",
+    "index.html": "/background-removal/index.html",
+    "main.e7720ab7.css.map": "/background-removal/static/css/main.e7720ab7.css.map",
+    "main.d3ebe067.js.map": "/background-removal/static/js/main.d3ebe067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.d3ebe067.js"
+  ]
+}
